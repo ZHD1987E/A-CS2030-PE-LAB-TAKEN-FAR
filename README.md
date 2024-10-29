@@ -7,15 +7,15 @@ Thanks to someone who published the CS2030 Practical Examinations online, more s
 It's just a direct dump of my Maven project, which includes the following:
 - Source files that answer that particular Practical Examination
 - Test files that I tinker around and crash my code with thanks to JUnit
-- Some random logs that I generate from testing and whatnot
 
 # How do you use it?
 
 Err... Probably take it as sample solution from a non-TA I guess? My code can produce wrong results.
+Otherwise, you may want to clone it and tinker with the functionalities of Maven. Depends on where you're coming from.
 
 # Credits to?
 
-@RussellDash332 for publishing that assessment.
+[@RussellDash332](https://github.com/russellDash332/) for publishing that assessment.
 
 # I want this taken down! Or I have better ideas to write test cases!
 
