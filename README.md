@@ -17,7 +17,7 @@ Err... Probably take it as sample solution from a non-TA I guess? My code can pr
 
 @russelldash332 for publishing that assessment.
 
-# I want this taken down!
+# I want this taken down! Or I have better ideas to write test cases!
 
 No worries! Write in to me <mailto:zhanghaodong101@outlook.com>, or message me on <t.me/@zhd1987e>
 
