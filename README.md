@@ -19,6 +19,6 @@ Err... Probably take it as sample solution from a non-TA I guess? My code can pr
 
 # I want this taken down! Or I have better ideas to write test cases!
 
-No worries! Write in to me <mailto:zhanghaodong101@outlook.com>, or message me on <t.me/@zhd1987e>
+No worries! [Write in](mailto:zhanghaodong101@outlook.com) to me, or message me on <t.me/@zhd1987e>
 
 # Happy tinkering I guess?
