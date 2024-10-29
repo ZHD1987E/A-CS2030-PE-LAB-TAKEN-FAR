@@ -15,7 +15,7 @@ Err... Probably take it as sample solution from a non-TA I guess? My code can pr
 
 # Credits to?
 
-@russelldash332 for publishing that assessment.
+@RussellDash332 for publishing that assessment.
 
 # I want this taken down! Or I have better ideas to write test cases!
 
