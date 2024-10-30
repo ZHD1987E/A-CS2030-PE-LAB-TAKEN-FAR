@@ -1,6 +1,6 @@
 # Wait, what the hell is this?
 
-Thanks to someone who published the CS2030 Practical Examinations online, more specifically the [2024 Semester 1 Practical Examination on Seat Booking](https://russelldash332.github.io/CS2030/PA/PA1/2410/PA1_2410.html), I decided it was a simple exercise for me to try out some build tools on my own, specifically Maven.
+Thanks to someone who published the CS2030 Practical Examinations online, more specifically the [2024 Semester 1 Practical Examination on Seat Booking](https://russelldash332.github.io/CS2030/PA/PA1/2410/PA1_2410.html), I decided it was a simple exercise for me to try out some build tools on my own, specifically Gradle.
 
 # What's inside?
 
