@@ -7,10 +7,6 @@ public class Approve extends Transaction {
         super(sPlan, log);
     }
 
-    public Transaction transact(Transaction t) {
-        return this;
-    }
-
     public String toString() {
         return "APPROVED:\n" + super.getStatus();
     }

@@ -7,10 +7,6 @@ public class Reject extends Transaction {
         super(sPlan, log);
     }
 
-    public Transaction transact(Transaction t) {
-        return this;
-    }
-
     public String toString() {
         return "REJECTED:\n" + super.getStatus();
     }

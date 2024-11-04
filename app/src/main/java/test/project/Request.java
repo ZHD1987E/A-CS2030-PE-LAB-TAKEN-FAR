@@ -17,6 +17,7 @@ public class Request extends Transaction {
         this.seatRange = rowOfSeats;
     }
     
+    @Override
     public Transaction transact(Transaction t) {
         Seating seatPlan = t.getSeating();
         if (!seatPlan.isAvailable(seatRange)) {

@@ -19,7 +19,9 @@ public abstract class Transaction {
         return log;
     }
 
-    public abstract Transaction transact(Transaction t);
+    public Transaction transact(Transaction t) {
+        return this;
+    }
 
     public String getStatus() {
         return String.join("\n", log) + "\n" + seatingPlan.toString();
